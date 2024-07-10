@@ -27,7 +27,7 @@ The diagram illustrates a cloud architecture using AWS services. Here’s a brea
 2. **State Management**: Use remote backend for storing the Terraform state to enable collaboration and maintain state consistency.
 3. **Configuration Management**: Implement variables and environment-specific configurations to manage different stages of the infrastructure lifecycle.
 
-### Improvement Suggestions
+### Improvement possible
 To enhance this architecture, consider the following:
 
 - **Auto-scaling**: Implement auto-scaling groups for Lambda functions to handle varying loads.
@@ -37,4 +37,4 @@ To enhance this architecture, consider the following:
 
 ---
 
-This README provides an overview of the assignment, the architectural design, best practices to follow, and suggestions for improvement.
+
