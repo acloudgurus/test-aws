@@ -1,6 +1,6 @@
 # Cloud Architecture Implementation with Terraform
 
-![image](C:\Users\aa4\Downloads\347026344-09dda7c8-040c-4d98-9c60-02610776455f.png)
+![image](./image/arc.png)
 
 
 ### Objective
